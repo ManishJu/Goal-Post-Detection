@@ -5,7 +5,7 @@ Detecting goalpost in image
 Visual Studio with OpenCV setup.
 
 ## Example Test
-Green circles are the detected points
+Green circles are the detected points in the second image below
 
 ### Captured Image
 ![Captured Image](Pictures/im0001.png)
