@@ -3,6 +3,7 @@ Detecting goalpost in image
 
 ## Requirements to run
 Visual Studio with OpenCV setup.
+Main file: Opencv_test.cpp
 
 ## Example Test
 Green circles are the detected points in the second image below.
