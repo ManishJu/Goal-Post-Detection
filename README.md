@@ -10,5 +10,5 @@ Green circles are the detected points
 ### Captured Image
 ![Captured Image](Pictures/im0001.png)
 
-## Detected goalpost
+### Detected goalpost
 ![Detected goalpost](Pictures/imageWithGoal0001.png)
