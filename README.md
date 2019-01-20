@@ -8,8 +8,7 @@ Visual Studio with OpenCV setup.
 Green circles are the detected points
 
 ### Captured Image
-![Captured Image](images/im0001.png)
+![Captured Image](Pictures/im0001.png)
 
 ## Detected goalpost
-![Detected goalpost](images/imageWithGoal0001.png)
-
+![Detected goalpost](Pictures/imageWithGoal0001.png)
